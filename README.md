@@ -2,7 +2,7 @@
 
 **Business Analyst · Operations, ERP & Manufacturing Data**
 
-I turn messy operational data (challans, stock ledgers, production orders, freight bills) into reconciled, audit-ready datasets and dashboards that teams can act on.
+I turn messy operational data (challans, stock ledgers, production orders, freight bills) into reconciled, audit-ready trustable datasets and dashboards that teams can act on.
 
 - Business Analysis, Operations & ERP at a garment manufacturing company: production planning, Prime ERP processes and process improvement
 - Stock and challan reconciliation and Excel system design for an industrial distributor
