@@ -18,7 +18,7 @@ I turn messy operational data (challans, stock ledgers, production orders, freig
 | [SQL Business Problems](https://github.com/tanmaymandal0207-cmyk/sql-business-problems) | Business case studies: problem, SQL solution, validation and interpretation | SQL, BigQuery |
 | [Logistics Expense Tracker](https://github.com/tanmaymandal0207-cmyk/Logistics_Expense_Tracker) | Restructure an FTL freight expense workbook with reconciliation and a year-filtered dashboard | Excel 365 |
 | [Superstore Sales Analysis](https://github.com/tanmaymandal0207-cmyk/superstore-sales-analysis-sql-powerbi) | Find sales trends and profitability drivers in retail data | SQL, Power BI |
-| [IPL Match Intelligence](https://github.com/tanmaymandal0207-cmyk/IPL-Match-Intelligence-Player-Impact-Analysis) | Practice project: what wins IPL matches and which players deliver in wins | MySQL 8 |
+| [IPL Match Intelligence](https://github.com/tanmaymandal0207-cmyk/IPL-Match-Intelligence-Player-Impact-Analysis) | Practice project: what wins IPL matches and which players deliver in wins · [Live dashboard](https://tanmaymandal0207-cmyk.github.io/IPL-Match-Intelligence-Player-Impact-Analysis/dashboard/) | MySQL 8 |
 
 ## Toolkit
 
