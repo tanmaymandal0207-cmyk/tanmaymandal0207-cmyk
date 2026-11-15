@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanmay-mandal-286623247"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
-  <!-- <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-17283B?logo=gmail&logoColor=white"></a> -->
   <img alt="Open to" src="https://img.shields.io/badge/Open%20to-Business%20Analyst%20roles-2E8B57">
   <img alt="Location" src="https://img.shields.io/badge/Jamshedpur%2C%20India-open%20to%20relocation-DCE6F2?labelColor=17283B">
 </p>
@@ -25,6 +24,7 @@ Built on real business data (anonymised before publishing).
 | **[Garment PPC System](https://github.com/tanmaymandal0207-cmyk/garment-ppc-system)**<br><sub>Excel 365</sub> | Will each PO ship on time, and do we have the machines for the line plan? | Order planner (`WORKDAY.INTL` scheduling, OTIF) + machine capacity planner (26 lines × 105 days) | 191 POs scheduled · demand vs **920 installed machines** by group |
 | **[Commercial Intelligence Dashboard](https://github.com/tanmaymandal0207-cmyk/Commercial-Intelligence-Dashboard)**<br><sub>Power BI · DAX</sub> | Which products drive revenue, are we pricing well, and which are declining? | 5-page report, 30 DAX measures, lifecycle & risk classification | 7 years · 540 SKUs · ₹41.97 Cr analysed |
 | **[Logistics Expense Tracker](https://github.com/tanmaymandal0207-cmyk/logistics-expense-tracker)**<br><sub>Excel 365</sub> | Hand-typed monthly totals that didn't match the load register (9 of 28 months off) | Structured tables, `SUMIFS` reconciliation, year-filtered fleet dashboard | 1,285 loads **tied out to the rupee** |
+| **[Swift Condenser Demand Gap](https://github.com/tanmaymandal0207-cmyk/Swift_Condenser_Legacy_Analysis)**<br><sub>Excel · Power Query · market research</sub> | Why did dispatches of a Swift AC condenser fall from ~580 to ~40 units a year? | Code-level trend analysis, fitment mapping, distributor and vehicle-cohort review, with observations kept separate from hypotheses | Research brief + client report · **validation in progress** |
 
 ## 🧮 SQL & analytics
 
