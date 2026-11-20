@@ -66,3 +66,10 @@ Built on real business data (anonymised before publishing).
 </p>
 
 **Domain:** production planning & control · inventory & challan reconciliation · master-data mapping · freight & fleet cost · data-quality and exception reporting
+
+---
+
+<p align="center">
+  <a href="https://github.com/tanmaymandal0207-cmyk?tab=repositories">Browse all repositories</a> ·
+  <a href="https://www.linkedin.com/in/tanmay-mandal-286623247">Connect on LinkedIn</a>
+</p>
