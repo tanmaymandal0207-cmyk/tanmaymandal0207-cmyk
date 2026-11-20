@@ -59,6 +59,8 @@ Built on real business data (anonymised before publishing).
   <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-M-217346">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-DAX-F2C811?logo=powerbi&logoColor=black">
   <img alt="ERP" src="https://img.shields.io/badge/ERP-Prime%20ERP-3B5573">
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-Standard%20SQL-4285F4?logo=googlebigquery&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-pandas-3776AB?logo=python&logoColor=white">
 </p>
 
 **Domain:** production planning & control · inventory & challan reconciliation · master-data mapping · freight & fleet cost · data-quality and exception reporting
