@@ -19,6 +19,8 @@ I take messy operational data — delivery challans, stock ledgers, purchase ord
 
 **Background:** Business Analysis, Operations & ERP (Prime ERP) at a garment manufacturer · freelance reconciliation and analytics for an industrial distributor and a 10-truck logistics fleet · BBA, Amity University Ranchi (2024)
 
+**Currently:** freelancing on Excel / Power Query reconciliation and analytics work, and open to Business Analyst roles in operations, manufacturing, ERP and data.
+
 **Short on time? Start here:** [Inventory Reconciliation](https://github.com/tanmaymandal0207-cmyk/inventory-reconciliation) (11 years of real challans tied out with an audit register) · [SQL Business Problems → Start here](https://github.com/tanmaymandal0207-cmyk/sql-business-problems#start-here) (five case studies, problem → SQL → validation) · [Commercial Intelligence Dashboard](https://github.com/tanmaymandal0207-cmyk/Commercial-Intelligence-Dashboard) (Power BI, 30 DAX measures)
 
 ---
