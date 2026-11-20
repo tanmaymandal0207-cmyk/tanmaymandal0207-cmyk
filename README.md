@@ -8,6 +8,13 @@
   <img alt="Location" src="https://img.shields.io/badge/Jamshedpur%2C%20India-open%20to%20relocation-DCE6F2?labelColor=17283B">
 </p>
 
+<p align="center">
+  <a href="#-real-world-work">Real-world work</a> ·
+  <a href="#-sql--analytics">SQL & analytics</a> ·
+  <a href="#-how-i-work">How I work</a> ·
+  <a href="#️-toolkit">Toolkit</a>
+</p>
+
 I take messy operational data — delivery challans, stock ledgers, purchase orders, freight bills — and turn it into **reconciled, traceable datasets and dashboards that operations and finance teams can act on**. My work is built for audit: every number ties back to a source row, and exceptions are logged, not silently fixed.
 
 **Background:** Business Analysis, Operations & ERP (Prime ERP) at a garment manufacturer · freelance reconciliation and analytics for an industrial distributor and a 10-truck logistics fleet · BBA, Amity University Ranchi (2024)
